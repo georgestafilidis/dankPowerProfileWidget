@@ -1,0 +1,10 @@
+{
+    "id": "powerProfileIcons",
+    "name": "Power Profile Icons",
+    "description": "Three-button power profile switcher",
+    "version": "1.0",
+    "author": "georgestafilidis",
+    "icon": "power",
+    "type": "widget",
+    "component": "./PowerProfileIcons.qml"
+}
